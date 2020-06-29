@@ -35,7 +35,7 @@ section{
 }
 .link-button{
     text-decoration: none;
-    background-image: linear-gradient(60deg,#69e5aa,#41b076,#25d4a3);
+    background-image: linear-gradient(60deg,#b7e2e7,#64d6eb,#a2d6e6);
     padding: 10px 20px;
     border-radius: 8px;
     color: snow;
@@ -93,5 +93,9 @@ section{
 footer{
     text-align: center;
     font-size: 18px;
+}
+.u{
+    color: gold;
+    font-size: 22px;
 }
 
